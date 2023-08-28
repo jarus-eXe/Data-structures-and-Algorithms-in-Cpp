@@ -21,3 +21,8 @@ int main(){
 	cout << ans << endl;
 	return 0;
 }
+/*
+Output:
+5
+101
+*/
