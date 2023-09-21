@@ -8,7 +8,7 @@ using namespace std;
 
 class Stack{
 	private:
-		int top;
+		int top;	//point the index value not a pointer.
 		int arr[5];
 		
 	public:
