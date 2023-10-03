@@ -1,5 +1,4 @@
 # Learning DSA in 160 Days
-
 **Topics To Cover** ->
 1. Linked Lists
 2. Stacks
@@ -9,6 +8,5 @@
 6. Heaps
 7. Sorting & Searching
 8. Dynamic Programming
+ReSources -> Opensource Platforms and Documentations
 
-Source -> Opensource
-HAPPY CODING!
